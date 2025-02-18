@@ -27,11 +27,11 @@ namespace Bai5
         {
             Console.Write("First 10 prime number is: ");
             int count = 0, i = 2;
-            while (count <= 10)
+            while (count < 10)
             {
                 if (isPrime(i))
                 {
-                    Console.Write($"{i} ");
+                    Console.WriteLine($"So nguyen to thu {count +1} la: {i}");
                     count++;
                 }
                 i++;

@@ -1,0 +1,7 @@
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\bin\Debug\ExampleForCrush.exe.config
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\bin\Debug\ExampleForCrush.exe
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\bin\Debug\ExampleForCrush.pdb
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\obj\Debug\ExampleForCrush.csproj.AssemblyReference.cache
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\obj\Debug\ExampleForCrush.csproj.CoreCompileInputs.cache
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\obj\Debug\ExampleForCrush.exe
+D:\Desktop-Application\C#Basic_Excercise\ExampleForCrush\obj\Debug\ExampleForCrush.pdb

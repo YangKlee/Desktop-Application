@@ -1,0 +1,7 @@
+D:\Desktop-Application\C#Basic_Excercise\2DArray\bin\Debug\2DArray.exe.config
+D:\Desktop-Application\C#Basic_Excercise\2DArray\bin\Debug\2DArray.exe
+D:\Desktop-Application\C#Basic_Excercise\2DArray\bin\Debug\2DArray.pdb
+D:\Desktop-Application\C#Basic_Excercise\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+D:\Desktop-Application\C#Basic_Excercise\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+D:\Desktop-Application\C#Basic_Excercise\2DArray\obj\Debug\2DArray.exe
+D:\Desktop-Application\C#Basic_Excercise\2DArray\obj\Debug\2DArray.pdb

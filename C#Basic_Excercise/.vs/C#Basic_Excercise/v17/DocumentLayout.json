@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\Desktop-Application\\C#Basic_Excercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A1AC6C3-C8EA-41EA-BDDF-341A19D098A2}|2DArray\\2DArray.csproj|d:\\desktop-application\\c#basic_excercise\\2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AC6C3-C8EA-41EA-BDDF-341A19D098A2}|2DArray\\2DArray.csproj|solutionrelative:2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBCD11BF-3BAA-448D-9D95-44204D8B4694}|Bai5\\Bai5.csproj|d:\\desktop-application\\c#basic_excercise\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBCD11BF-3BAA-448D-9D95-44204D8B4694}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{946C8BA1-5872-4026-8ABD-68912B3A6F67}|Bai4\\Bai4.csproj|d:\\desktop-application\\c#basic_excercise\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D091A287-857F-4380-930D-871C1FCE86E9}|ExampleForCrush\\ExampleForCrush.csproj|d:\\desktop-application\\c#basic_excercise\\exampleforcrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D091A287-857F-4380-930D-871C1FCE86E9}|ExampleForCrush\\ExampleForCrush.csproj|solutionrelative:exampleforcrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946C8BA1-5872-4026-8ABD-68912B3A6F67}|Bai4\\Bai4.csproj|D:\\Desktop-Application\\C#Basic_Excercise\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{946C8BA1-5872-4026-8ABD-68912B3A6F67}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop-Application\\C#Basic_Excercise\\2DArray\\Program.cs",
+              "RelativeDocumentMoniker": "2DArray\\Program.cs",
+              "ToolTip": "D:\\Desktop-Application\\C#Basic_Excercise\\2DArray\\Program.cs",
+              "RelativeToolTip": "2DArray\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwIQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:08:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop-Application\\C#Basic_Excercise\\ExampleForCrush\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleForCrush\\Program.cs",
+              "ToolTip": "D:\\Desktop-Application\\C#Basic_Excercise\\ExampleForCrush\\Program.cs",
+              "RelativeToolTip": "ExampleForCrush\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:41:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop-Application\\C#Basic_Excercise\\Bai5\\Program.cs",
               "RelativeDocumentMoniker": "Bai5\\Program.cs",
               "ToolTip": "D:\\Desktop-Application\\C#Basic_Excercise\\Bai5\\Program.cs",
               "RelativeToolTip": "Bai5\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T10:27:30.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop-Application\\C#Basic_Excercise\\Bai4\\Program.cs",
               "RelativeDocumentMoniker": "Bai4\\Program.cs",
@@ -47,8 +77,7 @@
               "RelativeToolTip": "Bai4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:21:07.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T10:21:07.328Z"
             }
           ]
         }
