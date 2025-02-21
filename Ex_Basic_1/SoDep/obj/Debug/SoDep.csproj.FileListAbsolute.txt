@@ -1,0 +1,7 @@
+D:\Desktop Application\Ex_Basic_1\SoDep\bin\Debug\SoDep.exe.config
+D:\Desktop Application\Ex_Basic_1\SoDep\bin\Debug\SoDep.exe
+D:\Desktop Application\Ex_Basic_1\SoDep\bin\Debug\SoDep.pdb
+D:\Desktop Application\Ex_Basic_1\SoDep\obj\Debug\SoDep.csproj.AssemblyReference.cache
+D:\Desktop Application\Ex_Basic_1\SoDep\obj\Debug\SoDep.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Ex_Basic_1\SoDep\obj\Debug\SoDep.exe
+D:\Desktop Application\Ex_Basic_1\SoDep\obj\Debug\SoDep.pdb

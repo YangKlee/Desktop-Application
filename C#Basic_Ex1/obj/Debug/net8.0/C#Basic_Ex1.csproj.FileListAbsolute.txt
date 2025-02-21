@@ -1,0 +1,14 @@
+D:\Desktop Application\C#Basic_Ex1\bin\Debug\net8.0\C#Basic_Ex1.exe
+D:\Desktop Application\C#Basic_Ex1\bin\Debug\net8.0\C#Basic_Ex1.deps.json
+D:\Desktop Application\C#Basic_Ex1\bin\Debug\net8.0\C#Basic_Ex1.runtimeconfig.json
+D:\Desktop Application\C#Basic_Ex1\bin\Debug\net8.0\C#Basic_Ex1.dll
+D:\Desktop Application\C#Basic_Ex1\bin\Debug\net8.0\C#Basic_Ex1.pdb
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.AssemblyInfoInputs.cache
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.AssemblyInfo.cs
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.csproj.CoreCompileInputs.cache
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.dll
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\refint\C#Basic_Ex1.dll
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.pdb
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\C#Basic_Ex1.genruntimeconfig.cache
+D:\Desktop Application\C#Basic_Ex1\obj\Debug\net8.0\ref\C#Basic_Ex1.dll

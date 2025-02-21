@@ -1,0 +1,16 @@
+D:\Desktop Application\TestProj\bin\Debug\net8.0-windows\TestProj.exe
+D:\Desktop Application\TestProj\bin\Debug\net8.0-windows\TestProj.deps.json
+D:\Desktop Application\TestProj\bin\Debug\net8.0-windows\TestProj.runtimeconfig.json
+D:\Desktop Application\TestProj\bin\Debug\net8.0-windows\TestProj.dll
+D:\Desktop Application\TestProj\bin\Debug\net8.0-windows\TestProj.pdb
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.Form1.resources
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.vbproj.GenerateResource.cache
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.AssemblyInfoInputs.cache
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.AssemblyInfo.vb
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.vbproj.CoreCompileInputs.cache
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.dll
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\refint\TestProj.dll
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.pdb
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\TestProj.genruntimeconfig.cache
+D:\Desktop Application\TestProj\obj\Debug\net8.0-windows\ref\TestProj.dll

@@ -1,0 +1,14 @@
+D:\Desktop Application\InterpolatedExample\bin\Debug\net8.0\InterpolatedExample.exe
+D:\Desktop Application\InterpolatedExample\bin\Debug\net8.0\InterpolatedExample.deps.json
+D:\Desktop Application\InterpolatedExample\bin\Debug\net8.0\InterpolatedExample.runtimeconfig.json
+D:\Desktop Application\InterpolatedExample\bin\Debug\net8.0\InterpolatedExample.dll
+D:\Desktop Application\InterpolatedExample\bin\Debug\net8.0\InterpolatedExample.pdb
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.AssemblyInfoInputs.cache
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.AssemblyInfo.cs
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.csproj.CoreCompileInputs.cache
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.dll
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\refint\InterpolatedExample.dll
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.pdb
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\InterpolatedExample.genruntimeconfig.cache
+D:\Desktop Application\InterpolatedExample\obj\Debug\net8.0\ref\InterpolatedExample.dll

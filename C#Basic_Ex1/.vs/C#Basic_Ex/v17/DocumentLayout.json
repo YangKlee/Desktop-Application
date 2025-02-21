@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Application\\C#Basic_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3944EBF-5CB8-4F8C-80F1-A7E5E91B09F7}|..\\C#Basic_Ex2\\C#Basic_Ex2.csproj|d:\\desktop application\\c#basic_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E02F153-032D-49B6-AC99-7CCDE190DCA2}|C#Basic_Ex1.csproj|d:\\desktop application\\c#basic_ex1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E02F153-032D-49B6-AC99-7CCDE190DCA2}|C#Basic_Ex1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\C#Basic_Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\C#Basic_Ex2\\Program.cs",
+              "ToolTip": "D:\\Desktop Application\\C#Basic_Ex2\\Program.cs",
+              "RelativeToolTip": "..\\C#Basic_Ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:37:19.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\C#Basic_Ex1\\test.cs",
+              "RelativeDocumentMoniker": "test.cs",
+              "ToolTip": "D:\\Desktop Application\\C#Basic_Ex1\\test.cs",
+              "RelativeToolTip": "test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:32:53.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
