@@ -38,24 +38,7 @@ namespace MaPhuongLe
 
             while (count <= n*n)
             {
-                i--; j++;
-                
-                count++;
-                if (i < 1 && j >=1)
-                {
-                    
-                    i = n;
-                    j++;
-                    a[i, j] = count;
-                    continue;
-                }
-                else if (j > n && i < n)
-                {
-                    i--;
-                    j = 1;
-                    a[i, j] = count;
-                    continue;
-                }
+
 
             }
             show(a, n);

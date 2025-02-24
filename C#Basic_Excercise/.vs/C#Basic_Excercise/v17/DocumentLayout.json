@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{0A1AC6C3-C8EA-41EA-BDDF-341A19D098A2}|2DArray\\2DArray.csproj|solutionrelative:2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBCD11BF-3BAA-448D-9D95-44204D8B4694}|Bai5\\Bai5.csproj|d:\\desktop-application\\c#basic_excercise\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBCD11BF-3BAA-448D-9D95-44204D8B4694}|Bai5\\Bai5.csproj|D:\\Desktop-Application\\C#Basic_Excercise\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBCD11BF-3BAA-448D-9D95-44204D8B4694}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D091A287-857F-4380-930D-871C1FCE86E9}|ExampleForCrush\\ExampleForCrush.csproj|d:\\desktop-application\\c#basic_excercise\\exampleforcrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D091A287-857F-4380-930D-871C1FCE86E9}|ExampleForCrush\\ExampleForCrush.csproj|D:\\Desktop-Application\\C#Basic_Excercise\\exampleforcrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D091A287-857F-4380-930D-871C1FCE86E9}|ExampleForCrush\\ExampleForCrush.csproj|solutionrelative:exampleforcrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ExampleForCrush\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:41:48.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T15:41:48.038Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Bai5\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:27:30.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T10:27:30.462Z"
             },
             {
               "$type": "Document",

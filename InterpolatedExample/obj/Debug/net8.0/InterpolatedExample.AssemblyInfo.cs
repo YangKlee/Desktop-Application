@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterpolatedExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c47334db0053ec9eb6054b593101aa42e00cd6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterpolatedExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterpolatedExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
