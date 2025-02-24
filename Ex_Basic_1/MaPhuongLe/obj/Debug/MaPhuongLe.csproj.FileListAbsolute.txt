@@ -1,0 +1,7 @@
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\bin\Debug\MaPhuongLe.exe.config
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\bin\Debug\MaPhuongLe.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\bin\Debug\MaPhuongLe.pdb
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\obj\Debug\MaPhuongLe.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\obj\Debug\MaPhuongLe.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\obj\Debug\MaPhuongLe.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuongLe\obj\Debug\MaPhuongLe.pdb

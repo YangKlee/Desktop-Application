@@ -5,3 +5,10 @@ D:\Desktop Application\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.csproj.AssemblyRefer
 D:\Desktop Application\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.csproj.CoreCompileInputs.cache
 D:\Desktop Application\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.exe
 D:\Desktop Application\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.pdb
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\bin\Debug\CongSo1.exe.config
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\bin\Debug\CongSo1.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\bin\Debug\CongSo1.pdb
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\CongSo1\obj\Debug\CongSo1.pdb
