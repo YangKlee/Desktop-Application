@@ -1,0 +1,10 @@
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\bin\Debug\SumLib.dll
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\bin\Debug\SumLib.pdb
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Desktop Application\Desktop-Application-Project\M1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

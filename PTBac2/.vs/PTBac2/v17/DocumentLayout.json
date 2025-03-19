@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\PTBac2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD621F3-20D1-4E2C-AE55-200DC0159491}|PTBac2\\PTBac2.csproj|d:\\desktop application\\desktop-application-project\\ptbac2\\ptbac2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFD621F3-20D1-4E2C-AE55-200DC0159491}|PTBac2\\PTBac2.csproj|solutionrelative:ptbac2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\PTBac2\\PTBac2\\Form1.cs",
+              "RelativeDocumentMoniker": "PTBac2\\Form1.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\PTBac2\\PTBac2\\Form1.cs [Design]",
+              "RelativeToolTip": "PTBac2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:03:05.893Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD436720-A6C5-4B4B-A15A-F5361B66C2FA}|Bai1\\Bai1.csproj|d:\\desktop application\\desktop-application-project\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD436720-A6C5-4B4B-A15A-F5361B66C2FA}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Bai1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:19:05.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
