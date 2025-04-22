@@ -1,0 +1,10 @@
+D:\Desktop-Application\LIBManager\LIBManager\bin\Debug\LIBManager.exe.config
+D:\Desktop-Application\LIBManager\LIBManager\bin\Debug\LIBManager.exe
+D:\Desktop-Application\LIBManager\LIBManager\bin\Debug\LIBManager.pdb
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.csproj.AssemblyReference.cache
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.FormMain.resources
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.Properties.Resources.resources
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.csproj.GenerateResource.cache
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.csproj.CoreCompileInputs.cache
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.exe
+D:\Desktop-Application\LIBManager\LIBManager\obj\Debug\LIBManager.pdb
