@@ -9,7 +9,7 @@ namespace MaPhuong
 
     internal class Program
     {
-        static void inilazie(int[,] a, int n)
+        static void inilazieMaPhuongLe(int[,] a, int n)
         {
 
             for (int i = 1; i <= n; i++)
@@ -17,6 +17,32 @@ namespace MaPhuong
                 for (int j = 1; j <= n; j++)
                 {
                     a[i,j] = 0;
+                }
+            }
+        }
+        static void inilazieMaPhuongChan(int[,] a, int n)
+        {
+            int count = 1;
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = 1; j <= n; j++)
+                {
+                    
+                    if (((i % 4 == 0) || (i % 4 == 1)) && ((j%4 == 0) || (j%4 == 1) || (j%4 == 2) && (j % 4 == 3)))
+                    {
+                        a[i, j] = count;
+                    }
+                    else
+                    {
+                        a[i, j] = n * n - count + 1;
+                    }
+                    /*
+                    if (i == j || ((i + j)-1 == n))
+                    {
+                        Console.WriteLine($"i = {i} ; j = {j}");
+                        a[i, j] = count;
+                    }}*/
+                    count++;
                 }
             }
         }
@@ -81,6 +107,10 @@ namespace MaPhuong
                 i--; j++; // di chuyển chéo qua phải
             }
         }
+        static void MaPhuongChan(int[,] a ,int n)
+        {
+
+        }
         static bool checkMaPhuong(int[,] a, int n)
         {
             
@@ -103,8 +133,18 @@ namespace MaPhuong
             int n  = 0;
             n = Int16.Parse(Console.ReadLine());
             int[,] a = new int[1001, 1001];
-            inilazie(a, n);
-            MaPhuongLe(a, n);
+            
+            if (n % 2 == 0 && n % 4 == 0)
+            {
+                inilazieMaPhuongChan(a, n);
+            }
+            else
+            {
+                inilazieMaPhuongLe(a, n);
+                MaPhuongLe(a, n);
+
+            }
+            
             display(a, n);
             if (checkMaPhuong(a, n))
             {

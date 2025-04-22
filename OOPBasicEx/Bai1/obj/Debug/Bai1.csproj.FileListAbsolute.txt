@@ -1,0 +1,7 @@
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\bin\Debug\Bai1.exe.config
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\bin\Debug\Bai1.exe
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\bin\Debug\Bai1.pdb
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\obj\Debug\Bai1.exe
+D:\Desktop Application\Desktop-Application-Project\OOPBasicEx\Bai1\obj\Debug\Bai1.pdb

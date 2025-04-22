@@ -5,3 +5,10 @@ D:\Desktop-Application\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.csproj.AssemblyRef
 D:\Desktop-Application\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.csproj.CoreCompileInputs.cache
 D:\Desktop-Application\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.exe
 D:\Desktop-Application\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.pdb
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\bin\Debug\MaPhuong.exe.config
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\bin\Debug\MaPhuong.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\bin\Debug\MaPhuong.pdb
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.exe
+D:\Desktop Application\Desktop-Application-Project\Ex_Basic_1\MaPhuong\obj\Debug\MaPhuong.pdb

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop-Application\\Ex_Basic_1\\",
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F9CA8AC-DB81-4DC8-BA7A-299C22B0E2EC}|MaPhuong\\MaPhuong.csproj|d:\\desktop-application\\ex_basic_1\\maphuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F9CA8AC-DB81-4DC8-BA7A-299C22B0E2EC}|MaPhuong\\MaPhuong.csproj|d:\\desktop application\\desktop-application-project\\ex_basic_1\\maphuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9CA8AC-DB81-4DC8-BA7A-299C22B0E2EC}|MaPhuong\\MaPhuong.csproj|solutionrelative:maphuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269559FA-CEBD-4726-A4F6-1245B8533807}|SoDep\\SoDep.csproj|d:\\desktop-application\\ex_basic_1\\sodep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269559FA-CEBD-4726-A4F6-1245B8533807}|SoDep\\SoDep.csproj|solutionrelative:sodep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\MaPhuongLe\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaPhuongLe\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF76D9B-1E96-4D3A-AD28-BB9A4750D523}|CongSo1\\CongSo1.csproj|D:\\Desktop-Application\\Ex_Basic_1\\congso1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF76D9B-1E96-4D3A-AD28-BB9A4750D523}|CongSo1\\CongSo1.csproj|D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\congso1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF76D9B-1E96-4D3A-AD28-BB9A4750D523}|CongSo1\\CongSo1.csproj|solutionrelative:congso1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,43 +25,45 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop-Application\\Ex_Basic_1\\SoDep\\Program.cs",
-              "RelativeDocumentMoniker": "SoDep\\Program.cs",
-              "ToolTip": "D:\\Desktop-Application\\Ex_Basic_1\\SoDep\\Program.cs",
-              "RelativeToolTip": "SoDep\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwDcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:08:35.02Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop-Application\\Ex_Basic_1\\MaPhuong\\Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\MaPhuong\\Program.cs",
               "RelativeDocumentMoniker": "MaPhuong\\Program.cs",
-              "ToolTip": "D:\\Desktop-Application\\Ex_Basic_1\\MaPhuong\\Program.cs",
-              "RelativeToolTip": "MaPhuong\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAGgAAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\MaPhuong\\Program.cs*",
+              "RelativeToolTip": "MaPhuong\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:01:35.862Z",
+              "WhenOpened": "2025-02-25T04:12:23.268Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\MaPhuongLe\\Program.cs",
+              "RelativeDocumentMoniker": "MaPhuongLe\\Program.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\MaPhuongLe\\Program.cs",
+              "RelativeToolTip": "MaPhuongLe\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:45:05.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop-Application\\Ex_Basic_1\\CongSo1\\Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\CongSo1\\Program.cs",
               "RelativeDocumentMoniker": "CongSo1\\Program.cs",
-              "ToolTip": "D:\\Desktop-Application\\Ex_Basic_1\\CongSo1\\Program.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Ex_Basic_1\\CongSo1\\Program.cs",
               "RelativeToolTip": "CongSo1\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T13:53:51.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T13:53:51.171Z"
             }
           ]
         }

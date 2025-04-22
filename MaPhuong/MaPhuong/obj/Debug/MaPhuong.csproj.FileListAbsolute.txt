@@ -1,0 +1,10 @@
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\bin\Debug\MaPhuong.exe.config
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\bin\Debug\MaPhuong.exe
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\bin\Debug\MaPhuong.pdb
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.Form1.resources
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.Properties.Resources.resources
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.csproj.GenerateResource.cache
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.exe
+D:\Desktop Application\Desktop-Application-Project\MaPhuong\MaPhuong\obj\Debug\MaPhuong.pdb

@@ -1,0 +1,12 @@
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.AssemblyInfoInputs.cache
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.AssemblyInfo.cs
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.sourcelink.json
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\bin\Debug\net8.0\CL1.deps.json
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\bin\Debug\net8.0\CL1.dll
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\bin\Debug\net8.0\CL1.pdb
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.dll
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\refint\CL1.dll
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\CL1.pdb
+D:\Desktop Application\Desktop-Application-Project\CL1\CL1\obj\Debug\net8.0\ref\CL1.dll
