@@ -1,0 +1,10 @@
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\bin\Debug\BTH4_B4.exe.config
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\bin\Debug\BTH4_B4.exe
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\bin\Debug\BTH4_B4.pdb
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.Form1.resources
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.Properties.Resources.resources
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.csproj.GenerateResource.cache
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.exe
+D:\Desktop Application\Desktop-Application-Project\BTH4_B4\obj\Debug\BTH4_B4.pdb

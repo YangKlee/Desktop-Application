@@ -1,0 +1,10 @@
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\bin\Debug\CALCUCATION.exe.config
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\bin\Debug\CALCUCATION.exe
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\bin\Debug\CALCUCATION.pdb
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.Form1.resources
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.Properties.Resources.resources
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.csproj.GenerateResource.cache
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.exe
+D:\Desktop Application\Desktop-Application-Project\CALCUCATION\obj\Debug\CALCUCATION.pdb

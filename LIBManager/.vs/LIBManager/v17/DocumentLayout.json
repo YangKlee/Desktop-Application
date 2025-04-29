@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop-Application\\LIBManager\\",
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|d:\\desktop-application\\libmanager\\libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|d:\\desktop application\\desktop-application-project\\libmanager\\libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|d:\\desktop-application\\libmanager\\libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\libmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|d:\\desktop application\\desktop-application-project\\libmanager\\libmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|d:\\desktop application\\desktop-application-project\\libmanager\\libmanager\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\libmanager\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\libmanager\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224BFB73-4DB4-4DFF-A0F5-A5654B34BCDE}|LIBManager\\LIBManager.csproj|solutionrelative:libmanager\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Desktop-Application\\LIBManager\\LIBManager\\Form1.cs",
-              "RelativeDocumentMoniker": "LIBManager\\Form1.cs",
-              "ToolTip": "D:\\Desktop-Application\\LIBManager\\LIBManager\\Form1.cs [Design]",
-              "RelativeToolTip": "LIBManager\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Book.cs",
+              "RelativeDocumentMoniker": "LIBManager\\Book.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Book.cs",
+              "RelativeToolTip": "LIBManager\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T14:39:32.618Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-22T15:40:30.07Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\DAO.cs",
+              "RelativeDocumentMoniker": "LIBManager\\DAO.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\DAO.cs",
+              "RelativeToolTip": "LIBManager\\DAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:45:05.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Form1.cs",
+              "RelativeDocumentMoniker": "LIBManager\\Form1.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Form1.cs",
+              "RelativeToolTip": "LIBManager\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAASwFQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:43:22.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Program.cs",
+              "RelativeDocumentMoniker": "LIBManager\\Program.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Program.cs",
+              "RelativeToolTip": "LIBManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:16:40.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\BookDAO.cs",
+              "RelativeDocumentMoniker": "LIBManager\\BookDAO.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\BookDAO.cs",
+              "RelativeToolTip": "LIBManager\\BookDAO.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwDQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:51:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "LIBManager\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\DatabaseConnection.cs",
+              "RelativeToolTip": "LIBManager\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:33:37.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Desktop-Application\\LIBManager\\LIBManager\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Form1.cs",
               "RelativeDocumentMoniker": "LIBManager\\Form1.cs",
-              "ToolTip": "D:\\Desktop-Application\\LIBManager\\LIBManager\\Form1.cs",
-              "RelativeToolTip": "LIBManager\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBoAAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\LIBManager\\LIBManager\\Form1.cs [Design]",
+              "RelativeToolTip": "LIBManager\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T14:48:12.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T14:39:32.618Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

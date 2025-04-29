@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|d:\\desktop application\\desktop-application-project\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|d:\\desktop application\\desktop-application-project\\bai3\\bai3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\bai3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|d:\\desktop application\\desktop-application-project\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|d:\\desktop application\\desktop-application-project\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C33738-BC6A-4F0D-B59F-97FAFA69B4D3}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:37:30.624Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -52,41 +51,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs",
               "RelativeDocumentMoniker": "Bai3\\Form2.cs",
-              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs*",
-              "RelativeToolTip": "Bai3\\Form2.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCQAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs [Design]",
+              "RelativeToolTip": "Bai3\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T01:14:35.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:50:23.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form2.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs",
+              "RelativeToolTip": "Bai3\\Form2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:14:35.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Program.cs",
               "RelativeDocumentMoniker": "Bai3\\Program.cs",
               "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Program.cs",
               "RelativeToolTip": "Bai3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T01:04:33.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs",
-              "RelativeDocumentMoniker": "Bai3\\Form2.cs",
-              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form2.cs [Design]*",
-              "RelativeToolTip": "Bai3\\Form2.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:50:23.626Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-18T01:04:33.215Z"
             },
             {
               "$type": "Document",
@@ -97,8 +98,7 @@
               "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\Bai3\\Bai3\\Form1.cs [Design]",
               "RelativeToolTip": "Bai3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:24:06.654Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-18T00:24:06.654Z"
             }
           ]
         }

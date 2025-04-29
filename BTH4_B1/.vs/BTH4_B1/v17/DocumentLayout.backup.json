@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C306E4CE-D3B8-4772-A350-6F7F093722D3}|BTH4_B1\\BTH4_B1.csproj|d:\\desktop application\\desktop-application-project\\bth4_b1\\bth4_b1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C306E4CE-D3B8-4772-A350-6F7F093722D3}|BTH4_B1\\BTH4_B1.csproj|solutionrelative:bth4_b1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C306E4CE-D3B8-4772-A350-6F7F093722D3}|BTH4_B1\\BTH4_B1.csproj|D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\bth4_b1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C306E4CE-D3B8-4772-A350-6F7F093722D3}|BTH4_B1\\BTH4_B1.csproj|solutionrelative:bth4_b1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\BTH4_B1\\Form1.cs",
+              "RelativeDocumentMoniker": "BTH4_B1\\Form1.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\BTH4_B1\\Form1.cs",
+              "RelativeToolTip": "BTH4_B1\\Form1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAWwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:37:29.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\BTH4_B1\\Form1.cs",
+              "RelativeDocumentMoniker": "BTH4_B1\\Form1.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\BTH4_B1\\BTH4_B1\\Form1.cs [Design]",
+              "RelativeToolTip": "BTH4_B1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:30:50.666Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

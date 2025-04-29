@@ -1,0 +1,11 @@
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.Form1.resources
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.Properties.Resources.resources
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.csproj.GenerateResource.cache
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\bin\Debug\DangNhapSQL.exe.config
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\bin\Debug\DangNhapSQL.exe
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\bin\Debug\DangNhapSQL.pdb
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.exe
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.pdb
+D:\Desktop Application\Desktop-Application-Project\DangNhapSQL\obj\Debug\DangNhapSQL.Form2.resources

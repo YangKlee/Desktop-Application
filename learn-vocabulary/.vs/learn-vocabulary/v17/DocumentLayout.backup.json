@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|d:\\desktop application\\desktop-application-project\\learn-vocabulary\\wordidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:wordidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|d:\\desktop application\\desktop-application-project\\learn-vocabulary\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\useridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:useridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|d:\\desktop application\\desktop-application-project\\learn-vocabulary\\iword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:iword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|d:\\desktop application\\desktop-application-project\\learn-vocabulary\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDDE1E9-E432-409E-BEFE-A0F0F4931E73}|learn-vocabulary.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:37:25.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DBConnect.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\DBConnect.cs",
+              "RelativeToolTip": "DBConnect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:29:02.507Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserIDAO.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\UserIDAO.cs",
+              "RelativeDocumentMoniker": "UserIDAO.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\UserIDAO.cs",
+              "RelativeToolTip": "UserIDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:39:40.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordIDAO.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\WordIDAO.cs",
+              "RelativeDocumentMoniker": "WordIDAO.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\WordIDAO.cs",
+              "RelativeToolTip": "WordIDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:33:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWord.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\IWord.cs",
+              "RelativeDocumentMoniker": "IWord.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\IWord.cs",
+              "RelativeToolTip": "IWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:30:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Word.cs",
+              "RelativeDocumentMoniker": "Word.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Word.cs",
+              "RelativeToolTip": "Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:27:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:15:20.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\UserDAO.cs",
+              "RelativeDocumentMoniker": "UserDAO.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\UserDAO.cs",
+              "RelativeToolTip": "UserDAO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:41:40.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signin.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Signin.cs",
+              "RelativeDocumentMoniker": "Signin.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Signin.cs [Design]",
+              "RelativeToolTip": "Signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:03:55.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Signin.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Signin.cs",
+              "RelativeDocumentMoniker": "Signin.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Signin.cs",
+              "RelativeToolTip": "Signin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwDEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:09:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:01:36.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\Desktop Application\\Desktop-Application-Project\\learn-vocabulary\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:57:04.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

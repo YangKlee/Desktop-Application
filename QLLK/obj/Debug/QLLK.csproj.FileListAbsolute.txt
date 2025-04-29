@@ -1,0 +1,11 @@
+D:\Desktop Application\Desktop-Application-Project\QLLK\bin\Debug\QLLK.exe.config
+D:\Desktop Application\Desktop-Application-Project\QLLK\bin\Debug\QLLK.exe
+D:\Desktop Application\Desktop-Application-Project\QLLK\bin\Debug\QLLK.pdb
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.csproj.AssemblyReference.cache
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.QLLK.resources
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.Properties.Resources.resources
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.csproj.GenerateResource.cache
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.csproj.CoreCompileInputs.cache
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.exe
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.pdb
+D:\Desktop Application\Desktop-Application-Project\QLLK\obj\Debug\QLLK.add.resources
